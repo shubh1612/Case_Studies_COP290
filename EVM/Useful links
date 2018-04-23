@@ -1,0 +1,120 @@
+Link 1 - ECI FAQ - http://eci.nic.in/eci_main1/evm.aspx
+
+Consists of two Units – a Control Unit and a Balloting Unit – joined by a five-meter cable. 
+Control Unit with the Presiding Officer or a Polling Officer.
+Balloting Unit  inside the voting compartment. 
+Simultaneous button pressing by Polling Officer on Control Unit and voter on Balloting Unit.
+
+Run on an ordinary 6 volt alkaline battery.
+
+Maximum capacity =  3840 votes, approx. total number of electors = 1500
+
+Max 64 candidates
+16 candidates per Balloting Unit
+Parallel linking of balloting units (16 + 16 + 16 + 16 )
+If candidate > 64:
+Paper box method
+
+Malfunction situation:
+Officer is put on duty to cover about 10 polling stations - carries spare EVMs
+Votes recorded until failure in memory of Control Unit
+
+Election Commission + two Public Sector undertakings:
+Bharat Electronics Ltd., Bangalore
+Electronic Corporation of India Ltd., Hyderabad 
+
+5500/EVM in 1989-90, claim - initial investment neutralised by savings from paper method
+
+Booth capturing - Can be forcibly taken away or damaged.
+EVM maximum rate = 5 votes/minute.
+Polling Officers can press the "close" button - not possible to record any further vote.
+ 
+Advantages (Claimed)
+Cost saving from compared to paper system.
+Quick Counting
+No invalid votes
+Faster Voting process
+
+Count votes EVM wise or feed to a Master Counting machine.
+
+Can store result in memory for more than 10 years.
+
+Memory in the microchip intact without battery - recount shows the result stored in microchip.
+
+Audio(beep) and visual(bulb colour) indications to assure voter.
+
+Microchip sealed at time of import, cannot be opened and program be rewritten without damaging chip.
+
+Room free from dust dampness and rodents.
+
+Each Control Unit has a unique ID Number - painted on each unit with permanent marker.
+
+Initial checking
+Presiding Officer demonstrates to polling agents no hidden votes already recorded - press result button. 
+Conduct a mock poll - ask the polling agents to record their votes - show result to satisfy. Then clear result
+
+
+LINK 2 - EVM - http://eci.nic.in/eci_main1/evm1.aspx
+
+http://eci.nic.in/eci_main1/current/EVM_AV_17042017.mp4
+
+One time programmable chip - can’t be read or modified
+Can’t connect to any network, or internet - (Wire/Wireless)
+Checks
+First level check - by company engineers (authenticity of components) and then seal
+The FLC Hall is sanitized, entry is restricted and no camera, mobile phone or spy pen is allowed inside.
+Mock poll
+Randomised distribution of EVM across polling stations
+Stored in Strong rooms
+Names of candidates ordered
+
+http://eci.nic.in/eci_main1/current/FAQ-English14012017.pdf
+
+Model M2 produced in 2006-2012 - message from BU to CU in encrypted form
+No other kind of data can be accepted
+Manufactured in different years - manufacturers don’t know which candidates would contest.
+Once ballot key pressed in CU, other keys become inactive till completion of voting process
+After the enabling of ballot in CU, only the ‘first key press’is sensed and accepted by CU
+“sequenced key presses” signal - not possible 
+Model M3 EVM produced after 2013 have features - Tamper Detection and Self Diagnostics
+Technological features
+One time programmable microcontrollers
+Dynamic coding of key codes
+Date and time stamping of each and every key press
+Encryption technology 
+EVM-tracking software 
+Tamper detection and self-diagnostics
+
+Programme converted into machine code and given to the chip manufacturer abroad.
+
+http://eci.nic.in/eci_main1/current/StatusPaper-EVM.pdf
+http://eci.nic.in/eci_main1/current/presentation_evm_20052017.pdf
+
+http://eci.nic.in/eci_main1/communication/press-coverage/ie_22072017.pdf
+
+http://eci.nic.in/eci_main1/communication/cecinterview.html
+Semiconductor chips can’t be made in India
+Raw Chips are imported and programmed by manufacturer
+
+LINK 3 - EVM Challenge - http://eci.nic.in/eci_main1/current/ChallengeEVM20052017.pdf
+
+Rules for EVM Challenge
+
+LINK 4 - EVM Challenge - ( IMPORTANT ) https://www.huffingtonpost.in/ankit-lal/dear-election-commission-here-s-why-your-evm-hackathon-is-a-j_a_22108571/
+
+Paper - locally available, easily recyclable while 
+Electronic circuit storage, maintenance, transport, disposal - huge challenge. 
+
+People required to manage paper ballots vs EVMs.
+
+VVPAT rolled back and count in a automatic way, compare with CU results - IITD prof suggestion - acc to author asked to leave.
+
+According to the RTI report - the "master trainers"(responsible for maintenance of EVM) hire a team of around 20 local electricians under them who work as maintenance staff.
+
+EC admitted to our party functionaries in a meeting that anywhere between 2-5% EVM's malfunction.
+
+Problems with the rules set by EC
+
+
+LINK 5 - EVM of different countries -https://en.wikipedia.org/wiki/Electronic_voting_by_country
+
